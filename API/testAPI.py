@@ -2,8 +2,8 @@
 # openweathermap 현재 날씨 API로 특정 도시의 날씨를 가져와 출력한다.
 # 사전준비 openweathermap 회원 가입 후 API 발급
 # pip install requests python-dotenv
-# .env 파일을 생성하고 이곳에 openweather_api_key = API_code
-# .env.example openweather_api_key = API_code
+# .env 파일을 생성하고 이곳에 openweather_api_key = MY_API_code
+# .env.example openweather_api_key = MY_API_code
 # .env.example 받아서 .env로 이름바꾸고 자기 API를 채운다.
 
 import os
