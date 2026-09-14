@@ -71,7 +71,7 @@ def add_to_itinerary(place):
 # ==========================================
 # 히어로 배너 이미지
 st.image("https://images.unsplash.com/photo-1436491865332-7a61a109cc05?auto=format&fit=crop&w=2000&q=80", use_container_width=True)
-st.title("✈️ 황준영의 글로벌 트래블 마스터")
+st.title("✈️ 글로벌 트래블 마스터")
 st.markdown("전 세계 장소 검색부터 날씨, 환율, 동선 데이터 분석까지 한 번에 관리하는 통합 대시보드입니다.")
 
 # 탭 구조 생성
